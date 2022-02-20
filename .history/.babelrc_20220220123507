@@ -1,0 +1,9 @@
+{
+    "preset":[
+        "env",
+        "stage-0"
+    ]
+}
+
+{ presets: 
+    [["env","stage-0"]] }
